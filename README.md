@@ -1,4 +1,5 @@
-Using Tkinter to make a functional GUI to display live data being imported from Arduino via serial port;
+Project: Design and construct a functional RC Dyno using an arduino board and create a GUI and csv file to display the data in a human readable format using serial ports. Should find volt, current, power, torque, load, etc.
+
 Includes imports: tkinter and playsound.
 
 
